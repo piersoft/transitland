@@ -10,3 +10,5 @@ This file use TransitLand Platform API (https://transit.land/documentation/datas
 that's all.
 
 Simple idea: print one QRCode on every bus stop. On each qrcode insert link with "onestop_id" parameter on link to timesqr.php. 
+
+LIC. MIT @piersoft . 
