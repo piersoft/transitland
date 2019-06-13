@@ -4,7 +4,7 @@ This file use TransitLand Platform API (https://transit.land/documentation/datas
 
 2) Search "onestop_id" . on 1) [Example](https://transit.land/api/v1/stops?lat=40.36183&lon=18.16866)
 
-3) Save timesqr.php on your server and than open with "id" parameter. [Example](www.piersoft.it/gtfstutorial/timesqr.php?id=s-srhvt7tyqw-le~br~cityterminal)
+3) Save timesqr.php on your server and than open with "id" parameter. [Example](http://www.piersoft.it/gtfstutorial/timesqr.php?id=s-srhvt7tyqw-le~br~cityterminal)
 
 
 that's all.
